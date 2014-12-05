@@ -1,5 +1,5 @@
 teracy wireframe kit 0.1.0
-========================
+==========================
 
 
 ![Preview Screenshot](http://i.imgur.com/wTQlXBP.png)
@@ -28,9 +28,9 @@ Please refer to [this document](http://bohemiancoding.com/sketch/support/documen
 * All UI Elements are Symbols.
 * Symbols grouped by categories.
 * UI elements for mobile devices will be added in the next version.
-* Markups and annotations included. 
+* Markups and annotations included.
 * +140 icons included.
-* If you found bugs feel free to send us a message. 
+* If you found bugs feel free to send us a message.
 
 ## License
 
