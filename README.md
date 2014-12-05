@@ -1,8 +1,8 @@
-teracy wireframe kit 1.0
+teracy wireframe kit 0.1.0
 ========================
 
 
-![Preview Screenshot](http://i.imgur.com/4yUZG4v.png)
+![Preview Screenshot](http://i.imgur.com/wTQlXBP.png)
 
 This is the Wireframe kit created to help speed up your wireframing process. This kit includes basics UI elements for web, UI elements for Mobile and other devices will be updated in the future.
 
@@ -16,9 +16,9 @@ Please refer to [this document](http://bohemiancoding.com/sketch/support/documen
 
 ## Features
 
-![symbol](http://i.imgur.com/OcgILQv.png)
+![symbol](http://i.imgur.com/lhdlj5A.png)
 
-![ss1](http://i.imgur.com/zDIdNFj.png)
+![ss1](http://i.imgur.com/I1StlEf.png)
 
 ![ss2](http://i.imgur.com/UIBz0We.png)
 
@@ -28,7 +28,7 @@ Please refer to [this document](http://bohemiancoding.com/sketch/support/documen
 * All UI Elements are Symbols.
 * Symbols grouped by categories.
 * UI elements for mobile devices will be added in the next version.
-* Markup and annotation included.
+* Markups and annotations included. 
 * +140 icons included.
 * If you found bugs feel free to send us a message. 
 
