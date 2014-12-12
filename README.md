@@ -1,8 +1,8 @@
-teracy wireframe kit 0.1.0
-==========================
+teracy wireframe kit v0.2.0
+===========================
 
 
-![Preview Screenshot](http://i.imgur.com/lYGPt1t.jpg)
+![Preview Screenshot](https://raw.githubusercontent.com/teracyhq/wireframe/develop/img/preview.png)
 
 This is the Wireframe kit created to help speed up your wireframing process. This kit includes basics UI elements for web, UI elements for Mobile and other devices will be updated in the future.
 
@@ -16,13 +16,13 @@ Please refer to [this document](http://bohemiancoding.com/sketch/support/documen
 
 ## Features
 
-![symbol](http://i.imgur.com/lhdlj5A.png)
+![symbols](https://raw.githubusercontent.com/teracyhq/wireframe/develop/img/symbols.png)
 
-![ss1](http://i.imgur.com/I1StlEf.png)
+![ss1](https://raw.githubusercontent.com/teracyhq/wireframe/develop/img/ss1.png)
 
-![ss2](http://i.imgur.com/UIBz0We.png)
+![ss2](https://raw.githubusercontent.com/teracyhq/wireframe/develop/img/ss2.png)
 
-![ss3](http://i.imgur.com/Ec2Yre5.png)
+![ss3](https://raw.githubusercontent.com/teracyhq/wireframe/develop/img/ss3.png)
 
 
 * All UI Elements are Symbols.

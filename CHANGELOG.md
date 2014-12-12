@@ -3,6 +3,7 @@ Change Log
 
 
 0.2.0 (2014-12-12)
+------------------
 
 - Only use 1 Helvetica Font in the file.
 - Reorganize Symbols.
