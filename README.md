@@ -2,7 +2,7 @@ teracy wireframe kit 0.1.0
 ==========================
 
 
-![Preview Screenshot](http://i.imgur.com/wTQlXBP.png)
+![Preview Screenshot](http://i.imgur.com/lYGPt1t.jpg)
 
 This is the Wireframe kit created to help speed up your wireframing process. This kit includes basics UI elements for web, UI elements for Mobile and other devices will be updated in the future.
 
