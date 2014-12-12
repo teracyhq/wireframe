@@ -6,13 +6,19 @@ teracy wireframe kit 0.1.0
 
 This is the Wireframe kit created to help speed up your wireframing process. This kit includes basics UI elements for web, UI elements for Mobile and other devices will be updated in the future.
 
-To use, simply download the *Download ZIP* button on the right sidebar, unzip and open the .sketch file. It's recommended to place this file somewhere safe, and duplicate it when you need to create your own layout.
-
 All most every UI elements are converted to [Symbol](http://bohemiancoding.com/sketch/support/documentation/07-symbols/) so they can be reused across the projects. Remember to use *Duplicate Symbol* function so that you can easily customize the element or create your own custom one.
 
-Please refer to [this document](http://bohemiancoding.com/sketch/support/documentation/07-symbols/) to learn more about Symbol and how to organize Symbol in Sketch.
+## Installation
 
-***Sketch 3.1+ is required***
+[Sketch 3.1+](http://bohemiancoding.com/sketch/) is required to use the Wireframe kit. Additionally, it is recommended that you install several fonts used in the Wireframe kit:
+
+ * [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
+ * [OpenSans](http://www.fontsquirrel.com/fonts/open-sans)
+ * [SourceSansPro](http://www.fontsquirrel.com/fonts/source-sans-pro)
+
+To use, simply download the *Download ZIP* button on the right sidebar, unzip and open the .sketch file. It's recommended to place this file somewhere safe, and duplicate it when you need to create your own layout.
+
+Please refer to [this document](http://bohemiancoding.com/sketch/support/documentation/07-symbols/) to learn more about Symbol and how to organize Symbol in Sketch.
 
 ## Features
 
