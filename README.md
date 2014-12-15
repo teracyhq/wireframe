@@ -2,7 +2,7 @@ teracy wireframe kit v0.2.0
 ===========================
 
 
-![Preview Screenshot](https://raw.githubusercontent.com/teracyhq/wireframe/develop/img/preview.png)
+![Preview Screenshot](https://raw.githubusercontent.com/teracyhq/wireframe/v0.2.0/img/preview.png)
 
 This is the Wireframe kit created to help speed up your wireframing process. This kit includes
 basics UI elements for web, UI elements for Mobile and other devices will be updated in the future.
@@ -25,13 +25,13 @@ to learn more about Symbol and how to organize Symbol in Sketch.
 
 ## Features
 
-![symbols](https://raw.githubusercontent.com/teracyhq/wireframe/develop/img/symbols.png)
+![symbols](https://raw.githubusercontent.com/teracyhq/wireframe/v0.2.0/img/symbols.png)
 
-![ss1](https://raw.githubusercontent.com/teracyhq/wireframe/develop/img/ss1.png)
+![ss1](https://raw.githubusercontent.com/teracyhq/wireframe/v0.2.0/img/ss1.png)
 
-![ss2](https://raw.githubusercontent.com/teracyhq/wireframe/develop/img/ss2.png)
+![ss2](https://raw.githubusercontent.com/teracyhq/wireframe/v0.2.0/img/ss2.png)
 
-![ss3](https://raw.githubusercontent.com/teracyhq/wireframe/develop/img/ss3.png)
+![ss3](https://raw.githubusercontent.com/teracyhq/wireframe/v0.2.0/img/ss3.png)
 
 
 * All UI Elements are Symbols.
